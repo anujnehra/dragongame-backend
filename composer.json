@@ -1,0 +1,9 @@
+{
+    "name": "dragonslayer/dragonslayer",
+    "require": {
+        "cakephp/cakephp": "2.10.*"
+    },
+    "config": {
+        "vendor-dir": "vendor/"
+    }
+}
